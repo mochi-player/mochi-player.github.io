@@ -19,6 +19,9 @@ $font-family-base: 'Noto Sans', sans-serif;
 
 // Navbar
 $navbar-border-radius: 0;
+$navbar-dark-color: $body-bg;
+$navbar-dark-hover-color: $body-bg;
+$navbar-dark-toggler-border: rgba(255,255,255,.5);
 
 // Navs
 $nav-item-margin: .5rem;
@@ -55,8 +58,4 @@ h2 {
   width: 100%;
   height: auto;
   padding-bottom: 2rem;
-}
-
-footer {
-  text-align: center;
 }
