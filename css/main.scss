@@ -44,9 +44,12 @@ h2 {
   color: $brand-primary;
 }
 
+.center {
+  text-align: center;
+}
+
 .jumbotron {
   color: $body-bg;
-  text-align: center;
 }
 .jumbotron #screenshot {
   width: 100%;
