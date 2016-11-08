@@ -24,7 +24,7 @@ Qt uses `.ts` files to save translation files. If you don't know how to generate
 
 For more information on Qt Linguist, please visit the [Qt Linguist Manual](http://doc.qt.io/qt-5/linguist-translators.html){:target="_blank"}.
 
-## Fixing
+## Fixing Code
 
 Are you familiar with Qt? Help us to add new features or to fix bugs! [View {{ site.program_name }}'s project page here](https://github.com/mochi-player/mochi-player).
 
