@@ -3,11 +3,9 @@ layout: page
 title: Contribute
 permalink: /contribute/
 ---
-## Translating (W.I.P.)
+### Translating (W.I.P.)
 
 Do you know another language? Help translate, or help improve our existing translation in your own language!
-
-### Quick Start Guide (for Windows)
 
 The recommended way of translating is by using a program called Qt Linquist. It is a program that is part of the Qt toolkit.
 
@@ -24,11 +22,11 @@ Qt uses `.ts` files to save translation files. If you don't know how to generate
 
 For more information on Qt Linguist, please visit the [Qt Linguist Manual](http://doc.qt.io/qt-5/linguist-translators.html){:target="_blank"}.
 
-## Fixing Code
+### Fixing Code
 
 Are you familiar with Qt? Help us to add new features or to fix bugs! [View {{ site.program_name }}'s project page here](https://github.com/mochi-player/mochi-player).
 
-## Donating
+### Donating
 
 Do you have spare change in one of your pants? Please support us by donating! Every little bit counts.
 
