@@ -43,6 +43,12 @@ nav a {
   color: $body-bg;
 }
 
+#navbar-separator {
+  background: $body-color;
+  margin-bottom: 1rem;
+  padding-bottom: .2rem;
+}
+
 h2 {
   color: $brand-primary;
 }
