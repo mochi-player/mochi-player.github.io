@@ -3,7 +3,6 @@ layout: page
 title: History
 permalink: /history/
 ---
-
 {{ site.program_name }} has had different names before, but it's fundamental goals were the same. An easy to use multimedia player that could play anything and was not in your way.
 
 ### AniPlayer (2009)
